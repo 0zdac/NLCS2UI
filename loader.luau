@@ -38,6 +38,7 @@ GlobalWindow.Name = NeverLose.RandomString();
 GlobalWindow.IgnoreGuiInset = true;
 GlobalWindow.ZIndexBehavior = Enum.ZIndexBehavior.Global;
 GlobalWindow.ResetOnSpawn = false;
+GlobalWindow.AutoLocalize = false;
 GlobalWindow.Parent = CoreGui;
 NeverLose.ScreenGui = GlobalWindow;
 NeverLose.AccentColor = Color3.fromRGB(78, 127, 252);
