@@ -4,7 +4,7 @@ The source code is ready for obfuscate using Luraph.
 
 ## Using Library
 ```lua
-local NeverLose = loadstring(game:HttpGet("https://raw.githubusercontent.com/4lpaca-pin/NeverLose/refs/heads/main/source.luau"))()
+local NeverLose = loadstring(game:HttpGet("https://raw.githubusercontent.com/0zdac/NLCS2UI/refs/heads/main/source.luau"))()
 ```
 For Roblox Game
 ```lua
