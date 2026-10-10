@@ -4,7 +4,7 @@ The source code is ready for obfuscate using Luraph.
 
 ## Using Library
 ```lua
-local NeverLose = loadstring(game:HttpGet("https://raw.githubusercontent.com/FavLANY/NewUI/refs/heads/main/source.luau"))()
+local NeverLose = loadstring(game:HttpGet("https://raw.githubusercontent.com/0zdac/NLCS2UI/refs/heads/main/source.luau"))()
 ```
 For Roblox Game
 ```lua
@@ -370,7 +370,7 @@ NeverLose:Unload()
 # Full Usage Example
 ```lua
 -- Load the library
-local NeverLose = loadstring(game:HttpGet("https://raw.githubusercontent.com/FavLANY/NewUI/refs/heads/main/source.luau"))()
+local NeverLose = loadstring(game:HttpGet("https://raw.githubusercontent.com/0zdac/NLCS2UI/refs/heads/main/source.luau"))()
 
 -- Enable unloading (must be set before creating window)
 NeverLose.UnloadEnabled = true;
